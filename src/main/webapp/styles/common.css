@@ -1,0 +1,43 @@
+/* common.css
+ *
+ * Copyright (C) 2017 Universidad de Sevilla
+ * 
+ * The use of this project is hereby constrained to the conditions of the 
+ * TDG Licence, a copy of which you may download from 
+ * http://www.tdg-seville.info/License.html
+ * 
+ */
+
+.error {
+	color: red;
+	font-weight: bolder;
+}
+
+.message {
+	color: red;
+	font-weight: bolder;
+}
+
+.background-pending-alert {
+	background-color: red;
+}
+
+.background-pending-normal {
+	background-color: white;
+}
+
+.background-due {
+	background-color: yellow;
+}
+
+.background-rejected {
+	background-color: gray;
+}
+
+.background-cancelled {
+	background-color: cyan;
+}
+
+.background-accepted {
+	background-color: green;
+}
